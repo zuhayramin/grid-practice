@@ -41,6 +41,14 @@
     text-align: right;
 }
 
+.nav-ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    list-style: none;
+    text-align: center;
+}
+
 .menu ul,
 .menu li {
     font-size: 16px;

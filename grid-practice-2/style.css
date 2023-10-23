@@ -32,13 +32,11 @@ html {
 
 .header {
     background-color: #006157;
-    grid-column: 1 / 3;
     grid-area: header;
 }
 
 .sidebar {
     background-color: #005b94;
-    grid-row: 2 / 4;
     grid-area: sidebar;
 }
 
@@ -61,6 +59,5 @@ html {
 
 .footer {
     background-color: #393f4d;
-    grid-column: 1 / 3;
     grid-area: footer;
 }
